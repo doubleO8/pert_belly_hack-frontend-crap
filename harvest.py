@@ -7,12 +7,13 @@ import pprint
 import pert_belly_hack
 from pert_belly_hack.harvesting import HarvestKeitel
 
-from pert_belly_hack_frontend_crap.defaults import PACKAGE_META
+from pert_belly_hack_frontend_crap.defaults import PACKAGE_META, TAG_PATH_REL
 
 if __name__ == '__main__':
     print("Pert Belly Hack {:s}: {:s}".format(
         pert_belly_hack.__version__, 'HARVEST'))
     pprint.pprint(PACKAGE_META)
 
-    HARVEY = HarvestKeitel(package_meta=PACKAGE_META)
+    HARVEY = HarvestKeitel(package_meta=PACKAGE_META,
+                           tag_path_rel=TAG_PATH_REL)
     HARVEY.harvest()

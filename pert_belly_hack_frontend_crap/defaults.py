@@ -9,3 +9,5 @@ PACKAGE_META = {
     "epoch": 2,
     "target_root_path": "OpenWebif"
 }
+
+TAG_PATH_REL = 'public/tag_frontend-crap.json'
