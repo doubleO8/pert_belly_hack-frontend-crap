@@ -15,5 +15,6 @@ if __name__ == '__main__':
         pert_belly_hack.__version__, 'PREPARE'))
     pprint.pprint(PACKAGE_META)
 
-    AL = AlPackino(package_meta=PACKAGE_META)
+    AL = AlPackino(package_meta=PACKAGE_META,
+                   tag_path_rel='public/tag_frontend-crap.json')
     AL.prepare()
