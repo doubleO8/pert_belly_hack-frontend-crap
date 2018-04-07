@@ -19,18 +19,16 @@ script:
 - ./opkg-utils/opkg-build -O -o 0 -g 0 -Z gzip pack/
 
 after_success:
-- python -m flake8 plugin/ --output-file ./pages_out/flake8_report.txt
-- jshint ./sourcefiles/js/ | tee ./pages_out/jshint_report.txt
+- qa.sh
 - python ./harvest.py
 
 after_failure:
-- python -m flake8 plugin/ --output-file ./pages_out/flake8_report.txt
-- jshint ./sourcefiles/js/ | tee ./pages_out/jshint_report.txt
+- qa.sh
 - python ./harvest.py
 
 before_deploy:
-- find ./pages_out
-- git status
+#- find ./pages_out
+#- git status
 - ./opkg-utils/opkg-make-index ./pages_out/ | tee ./pages_out/Packages
 - gzip ./pages_out/Packages
 
