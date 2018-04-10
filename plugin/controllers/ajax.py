@@ -23,6 +23,8 @@ from enigma import eServiceCenter, eServiceReference, \
 from i18n import _
 from defaults import THEMES
 from utilities import parse_servicereference, SERVICE_TYPE_LOOKUP, NS_LOOKUP
+from models.config import getCollapsedMenus
+from models.config import getShowName, getCustomName, getBoxName
 
 from models.model_utilities import mangle_epg_text
 from models.services import getPicon
@@ -39,9 +41,9 @@ from models.config import getConfigs, getConfigsSections, getZapStream, \
 from base import BaseController
 
 try:
-    from boxbranding import getMachineBrand
+    from boxbranding import getMachineBrand, getBoxType
 except BaseException:
-    from models.owibranding import getMachineBrand
+    from models.owibranding import getMachineBrand, getBoxType
 
 
 def getMultiEpg(self, ref, begintime=-1, endtime=None, Mode=1):
@@ -713,3 +715,41 @@ class AjaxController(BaseController):
             HTTP response with headers
         """
         return {}
+
+
+def p_index_for_ajax(request):
+    """
+    The "pages functions" must be called `P_<pagename>`.
+
+    Example:
+        Contents for endpoint `/index` will be generated using a method
+        named `P_index`.
+
+    Args:
+        request (twisted.web.server.Request): HTTP request object
+
+    Returns:
+        dict: Parameter values
+    """
+    ret = getCollapsedMenus()
+    ginfo = getInfo()
+    ret['configsections'] = getConfigsSections()['sections']
+    ret['showname'] = getShowName()['showname']
+    ret['customname'] = getCustomName()['customname']
+    ret['boxname'] = getBoxName()['boxname']
+
+    if not ret['boxname'] or not ret['customname']:
+        ret['boxname'] = ginfo['brand'] + " " + ginfo['model']
+    ret['box'] = getBoxType()
+
+    if hasattr(eEPGCache, 'FULL_DESCRIPTION_SEARCH'):
+        ret['epgsearchcaps'] = True
+    else:
+        ret['epgsearchcaps'] = False
+
+    ret['extras'] = [
+        {'key': 'ajax/settings', 'description': _("Settings")}
+    ]
+    ret['theme'] = 'original-small-screen'
+    ret['content'] = ''
+    return ret
