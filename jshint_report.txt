@@ -1,0 +1,209 @@
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 86, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 87, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 136, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 175, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 224, Missing '()' invoking a constructor.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 251, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 334, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 335, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 456, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 758, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 768, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1088, Confusing use of '!'.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1333, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1336, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1393, Missing '()' invoking a constructor.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1452, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1469, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1794, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1795, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1935, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 1936, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 2022, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 2023, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 3569, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4159, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4322, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4390, Did you mean to return a conditional instead of an assignment?
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4392, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4460, Did you mean to return a conditional instead of an assignment?
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4462, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4621, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4622, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4633, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4689, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4843, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4844, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4856, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 4975, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 5347, Confusing use of '!'.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 5390, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 5984, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 6312, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 6532, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 6704, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 6714, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 6821, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 6931, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 7963, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 8163, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 8386, Missing semicolon.
+sourcefiles/js/chosen.1.8.2.min.js: line 3, col 8386, Too many errors. (100% scanned).
+
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 1405, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 1406, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2159, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2208, Missing '()' invoking a constructor.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2421, eval can be harmful.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2436, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2482, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2645, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2835, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2836, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 2882, Confusing use of '!'.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 3037, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 3038, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 3110, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 3301, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 3386, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 3846, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 4131, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 4357, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 4531, Missing '()' invoking a constructor.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 5735, Confusing use of '!'.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 5821, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 5924, Missing '()' invoking a constructor.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 6029, Missing '()' invoking a constructor.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 6736, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 6746, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 6981, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 6982, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 7316, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 7484, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 7493, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 7600, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 8691, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 8804, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 8836, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 8847, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 9051, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 9093, Confusing use of '!'.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10048, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10049, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 9780, Functions declared within loops referencing an outer scoped variable may lead to confusing semantics.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10131, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10394, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10654, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10655, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10772, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10850, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 10851, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 11052, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 11053, Missing semicolon.
+sourcefiles/js/jquery-ui-timepicker-addon.min.js: line 4, col 11053, Too many errors. (80% scanned).
+
+sourcefiles/js/jquery-ui.min.js: line 6, col 81, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 82, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 189, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 209, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 405, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 414, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 2462, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 2463, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 2835, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 2836, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 2858, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3259, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3260, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3328, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3338, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3482, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3483, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3484, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3512, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3700, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3701, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3716, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3717, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 3963, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4100, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4186, Missing '()' invoking a constructor.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4347, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4397, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4555, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4556, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4583, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4836, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 4919, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 5163, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 5173, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 5713, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 5890, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 5891, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 5896, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 5897, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 6431, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 6432, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 6792, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 6793, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 6832, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 7001, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 7178, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 7179, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 7234, Missing semicolon.
+sourcefiles/js/jquery-ui.min.js: line 6, col 7498, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery-ui.min.js: line 6, col 7498, Too many errors. (50% scanned).
+
+sourcefiles/js/jquery.min.js: line 2, col 205, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 210, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery.min.js: line 2, col 211, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 424, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 530, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 632, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 709, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 818, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 858, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 943, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 946, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1011, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1047, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1083, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1178, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1237, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1704, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery.min.js: line 2, col 1714, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1826, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1897, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 1959, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2009, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2096, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2158, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2361, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2379, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2467, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2578, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2660, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2664, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery.min.js: line 2, col 2665, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2727, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2813, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2901, Confusing use of '!'.
+sourcefiles/js/jquery.min.js: line 2, col 2909, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 2951, Confusing use of '!'.
+sourcefiles/js/jquery.min.js: line 2, col 2968, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3025, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3143, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3286, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3295, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3434, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3531, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery.min.js: line 2, col 3541, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3642, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery.min.js: line 2, col 3691, Expected an assignment or function call and instead saw an expression.
+sourcefiles/js/jquery.min.js: line 2, col 3713, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3898, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3940, Missing semicolon.
+sourcefiles/js/jquery.min.js: line 2, col 3968, Missing '()' invoking a constructor.
+sourcefiles/js/jquery.min.js: line 2, col 3968, Too many errors. (33% scanned).
+
+204 errors
